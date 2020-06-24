@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+tg_api_autoreg/__init__.py
+tg_api_autoreg.egg-info/PKG-INFO
+tg_api_autoreg.egg-info/SOURCES.txt
+tg_api_autoreg.egg-info/dependency_links.txt
+tg_api_autoreg.egg-info/not-zip-safe
+tg_api_autoreg.egg-info/requires.txt
+tg_api_autoreg.egg-info/top_level.txt
